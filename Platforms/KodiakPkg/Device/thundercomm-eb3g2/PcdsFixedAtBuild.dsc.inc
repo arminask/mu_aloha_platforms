@@ -1,0 +1,19 @@
+[PcdsFixedAtBuild.common]
+gAndromedaPkgTokenSpaceGuid.PcdMipiFrameBufferWidth|1080
+gAndromedaPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|2340
+
+# Smbios Info
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemBrand|"Thundercomm"
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemModel|"EB3G2 Edge AI Station"
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemRetailSku|"EB3G2"
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosProcessorRetailModel|"QCS6490"
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosProcessorModel|"Dragonwing (TM) QCS6490 @ 2.7 GHz"
+
+gAndromedaPkgTokenSpaceGuid.PcdABLProduct|"yupik"
+
+# Display Caller
+gAndromedaPkgTokenSpaceGuid.PcdDisplayCallerExitDisableDisplay|FALSE
+gAndromedaPkgTokenSpaceGuid.PcdDisplayCallerStallBeforeEnable|0
+
+# Storage
+gAndromedaPkgTokenSpaceGuid.PcdStorageHasUFS3|0
